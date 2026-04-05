@@ -1,0 +1,7 @@
+-- Current Contents of error_log.txt ---
+[2026-04-05 23:05:08] ERROR in trigger_errors: ConnectionError - No connection could be made
+[2026-04-05 23:05:08] ERROR in trigger_errors: HTTPError - 404 Not Found for product ID 999
+
+---------------------------------------------------------------------------
+JsException                               Traceback (most recent call last)
+JsException: TypeError: Failed to fetch
